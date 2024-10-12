@@ -18,7 +18,7 @@
   flex-wrap: nowrap;
   gap: 2rem;
 
-  height: 3.5rem;
+  height: 4rem;
   /* Dimensión */
   font-weight: bold;
   border-top: 0.15rem solid var(--BColor-border);
@@ -29,15 +29,14 @@
 }
 
 .nav--menu__content {
-  margin: 1rem 2rem;
-  min-height: 100vh;
+  margin: 1rem 1.2rem;
 }
 
 .box--form__note {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  min-height: 90vh;
+  min-height: 80vh;
 }
 
 .box--form__item {
