@@ -15,7 +15,7 @@
   --BColor-btn: #f6f8fa;
   --BColor-border: #d0d7de;
   --shadow-inset-color: #1f23280a;
-  --Font-size: 13px;
+  --Font-size: 16px;
   --shadow-inset: inset 0 0 1px 0;
   --TColor-green: green; /* Añadido a :root ya que estaba en [theme=default] */
   --Border-radios:6px;
